@@ -1,11 +1,58 @@
-<h1 align="center">Hi 👋, I'm Sooraj H R</h1>
+# Hi 👋 I'm Sooraj H R  
 
+🎓 MCA Graduate | 💻 Frontend Developer | 📊 Monitoring Enthusiast  
+⚛️ React JS | 🌐 HTML | 🎨 CSS | 🧠 JavaScript | ☕ Java  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/sooraj-h-r-469279259" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/sooraj-h-r-469279259" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## 👨‍💻 About Me
 
+I am a motivated **Frontend Developer** with hands-on experience in building responsive and user-friendly web applications using **React JS**.
+
+Along with frontend development, I have foundational experience in **system monitoring and observability** using **Grafana, Prometheus, and Node Exporter**, which helps me understand application performance and system health.
+
+I enjoy learning new technologies, improving my problem-solving skills, and working on real-world technical challenges.
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Frontend
+- React JS, JavaScript (ES6+), HTML5, CSS3  
+- Responsive Design, Flexbox  
+
+### ☕ Backend / Programming
+- Java (Core Java)  
+
+### 📊 Monitoring & Observability
+- Grafana  
+- Prometheus  
+- Node Exporter  
+
+### 🧰 Tools
+- Git, GitHub, VS Code  
+
+---
+
+## 📈 Currently Learning
+
+- Advanced React concepts  
+- UI/UX best practices  
+- Application monitoring & performance  
+
+---
+
+## 🎯 Career Goal
+
+To begin my career as a **Frontend Developer** or **Junior Software Engineer**, where I can apply my skills, learn from industry professionals, and contribute to impactful software solutions.
+
+---
+
+## 📫 Connect With Me
+
+- 📧 Email: **soorajhr17@gmail.com**  
+- 💼 GitHub: **https://github.com/SoorajHR**
+
+---
+
+⭐ *Thank you for visiting my profile. I’m always open to learning and collaboration.*
